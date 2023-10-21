@@ -1,0 +1,6 @@
+AUC score: 0.9879
+AP score: 0.9886
+Accuracy: 0.9206
+Precision: 0.8914
+Recall: 0.9579
+F1 score: 0.9234

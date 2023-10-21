@@ -1,0 +1,12 @@
+AUC score: 0.9949
+AP score: 0.9955
+Accuracy: 0.9660
+Precision: 0.9912
+Recall: 0.9404
+F1 score: 0.9651
+AUC_mean = 0.9892, AUC_std = 0.0041
+AP_mean = 0.9898, AP_std = 0.0039
+ACC_mean = 0.9325, ACC_std = 0.0201
+PREC_mean = 0.9493, PREC_std = 0.0339
+REC_mean = 0.9155, REC_std = 0.0311
+F1_mean = 0.9314, F1_std = 0.0205
